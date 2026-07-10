@@ -3,7 +3,38 @@ guid: 412cd17c915290b4088dfc8d224fea8d
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - wallFront: {instanceID: 0}
+  - wallBack: {instanceID: 0}
+  - wallLeft: {instanceID: 0}
+  - wallRight: {instanceID: 0}
+  - welcome_Front: {fileID: 32900000, guid: 0058ae262828a8b47bb5faf83fe64688, type: 3}
+  - welcome_Back: {fileID: 32900000, guid: 73c97e4f88e9958498056f6a0695f4f1, type: 3}
+  - welcome_Left: {instanceID: 0}
+  - welcome_Right: {instanceID: 0}
+  - scenario_Front: {instanceID: 0}
+  - scenario_Back: {instanceID: 0}
+  - scenario_Left: {instanceID: 0}
+  - scenario_Right: {instanceID: 0}
+  - correct_Front: {instanceID: 0}
+  - correct_Back: {instanceID: 0}
+  - correct_Left: {instanceID: 0}
+  - correct_Right: {instanceID: 0}
+  - wrong_Front: {instanceID: 0}
+  - wrong_Back: {instanceID: 0}
+  - wrong_Left: {instanceID: 0}
+  - wrong_Right: {instanceID: 0}
+  - appCTA_Front: {instanceID: 0}
+  - appCTA_Back: {instanceID: 0}
+  - appCTA_Left: {instanceID: 0}
+  - appCTA_Right: {instanceID: 0}
+  - outro_Front: {instanceID: 0}
+  - outro_Back: {instanceID: 0}
+  - outro_Left: {instanceID: 0}
+  - outro_Right: {instanceID: 0}
+  - choiceUI: {instanceID: 0}
+  - replayUI: {instanceID: 0}
+  - fadeImage: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

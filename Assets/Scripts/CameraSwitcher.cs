@@ -27,5 +27,6 @@ public class CameraSwitcher : MonoBehaviour
         exterior.gameObject.SetActive(false);
         interior.gameObject.SetActive(true);
         orbit.orbiting = false;
+        narrative.StartNarrative();
     }
 }
